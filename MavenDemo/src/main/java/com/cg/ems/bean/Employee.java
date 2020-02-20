@@ -15,6 +15,9 @@ public class Employee {
 		this.employeeName = employeeName;
 		this.salary = salary;
 	}
+	
+	
+	
 	public Employee() {
 		super();
 	}
