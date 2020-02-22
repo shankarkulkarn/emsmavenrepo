@@ -2,5 +2,5 @@ projectKey=com.cg:MavenDemo
 serverUrl=http://localhost:9000
 serverVersion=6.5.0.27846
 dashboardUrl=http://localhost:9000/dashboard/index/com.cg:MavenDemo
-ceTaskId=AXBiRKX02bfTemLtWdib
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXBiRKX02bfTemLtWdib
+ceTaskId=AXBrRj0_V7b6Mqszx5--
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXBrRj0_V7b6Mqszx5--
